@@ -1,6 +1,6 @@
 {
   "name": "bare-directory",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Capability based directory access for Bare",
   "exports": {
     "./package": "./package.json",
