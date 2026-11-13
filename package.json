@@ -40,7 +40,7 @@
     "bare-path": "^3.0.0",
     "bare-subprocess": "^6.2.1",
     "brittle": "^3.1.1",
-    "cmake-bare": "^1.1.6",
+    "cmake-bare": "^1.13.0",
     "cmake-fetch": "^1.5.3",
     "lunte": "^1.6.0",
     "prettier": "^3.4.2",

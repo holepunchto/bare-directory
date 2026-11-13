@@ -5,7 +5,7 @@ find_package(cmake-fetch REQUIRED PATHS node_modules/cmake-fetch)
 
 project(bare_directory C)
 
-fetch_package("github:holepunchto/libutf#a1ceca8")
+fetch_package("github:holepunchto/libutf#a7f9f6b")
 
 add_bare_module(bare_directory)
 
