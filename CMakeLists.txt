@@ -7,7 +7,7 @@ project(bare_directory C)
 
 fetch_package("github:holepunchto/libutf#b22ffb0")
 
-add_bare_module(bare_directory)
+add_bare_module(bare_directory INSTALL PRIVACY_MANIFEST PrivacyInfo.xcprivacy)
 
 target_sources(
   ${bare_directory}
